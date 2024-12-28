@@ -7,3 +7,8 @@ I’m **Alan Molina**, a **Data Engineer** passionate about crafting elegant sol
 When I’m not building data pipelines or writing about them, I’m usually creating (sometimes questionably useful) things with my 3D printer. I’m a big fan of movies, especially heist films and time travel stories, and I also love games. But what truly matters most to me is sharing life’s moments with my lovely wife, who’s not only my partner but has been my best friend since high school.
 
 At heart, I’m just a curious mind with a love for learning and a knack for sharing what I’ve learned along the way.
+
+<!---
+---
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/> <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=flat&logo=Databricks&logoColor=white"/>
+--->
